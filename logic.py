@@ -2,7 +2,7 @@ import itertools
 
 
 class Sentence():
-
+    #This class needs mroe commetns!
     def evaluate(self, model):
         """Evaluates the logical sentence."""
         raise Exception("nothing to evaluate")
